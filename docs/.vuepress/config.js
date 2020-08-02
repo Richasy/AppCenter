@@ -138,7 +138,14 @@ module.exports = {
                 title: 'RSS Stalker 说明书',
                 collapsable: true,
                 children: [
+                    ['/document/rss/beta', "内测说明"],
                     ['/document/rss/use', "使用说明"],
+                    ['/document/rss/service', "服务支持列表"],
+                    ['/document/rss/fever', "Fever 说明"],
+                    ['/document/rss/feed', "订阅源使用说明"],
+                    ['/document/rss/page', "页面使用说明"],
+                    ['/document/rss/schema', "文章说明"],
+                    ['/document/rss/authorize', "UWP中翻墙授权的特殊操作"],
                     ['/document/rss/history', "更新历史"],
                 ]
             }],
