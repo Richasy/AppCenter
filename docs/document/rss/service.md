@@ -9,6 +9,24 @@ type: post
 
 ### [Inoreader](https://www.inoreader.com/)
 
+:::tip
+`inoreader.com`目前在中国被屏蔽，需要翻墙。应用采用镜像站`innoreader.com`，目前可以访问，且允许在设置中修改
+:::
+
+支持操作：
+
+- 添加订阅源
+- 添加收藏夹（星标）
+- 修改分类名
+- 修改订阅源
+- 移除分类
+- 移除订阅源
+- 设置订阅源已读
+
+授权方式：OAuth (网页登录授权)
+
+### [NewsBlur](https://www.newsblur.com/)
+
 :::warning
 该服务目前在中国被屏蔽，需要翻墙
 :::
@@ -16,6 +34,7 @@ type: post
 支持操作：
 
 - 添加订阅源
+- 添加分类
 - 添加收藏夹（星标）
 - 修改分类名
 - 修改订阅源
@@ -72,14 +91,14 @@ OneDrive并不是一种RSS服务，而是云存储，与Microsoft账号绑定，
 
 授权方式：OAuth (网页登录授权)
 
-### ~~[Feedly](https://feedly.com/)~~
+### [Feedly](https://feedly.com/)
 
 :::warning
-该服务目前在中国被屏蔽，需要翻墙
+该服务目前在中国被屏蔽，需要翻墙。
 :::
 
 :::danger
-Feedly是目前主流的RSS服务之一，应用也进行了适配，但由于适配完成后屡次请求API令牌无果，所以暂不提供对应的服务支持
+Feedly是目前主流的RSS服务之一，应用也进行了适配，但由于适配完成后屡次向Feedly方面请求API令牌无果，应用暂时只提供开发者Token的访问
 :::
 
 支持操作：
@@ -91,4 +110,4 @@ Feedly是目前主流的RSS服务之一，应用也进行了适配，但由于�
 - 移除订阅源
 - 设置订阅源已读
 
-授权方式：OAuth (网页登录授权)
+授权方式：手动输入Token

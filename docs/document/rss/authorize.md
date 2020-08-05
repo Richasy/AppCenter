@@ -33,6 +33,10 @@ type: post
 
 ### 2. 解除限制
 
+:::tip
+顺带把RSS Stalker也给选上，这样可以保证代理的顺利运行
+:::
+
 下载之后打开该exe文件（需要管理员权限），在搜索栏中输入`auth`，你能看到下列的一些应用服务：
 
 ![](https://i.loli.net/2020/08/02/4aZEjrG6ITLybs3.png)
