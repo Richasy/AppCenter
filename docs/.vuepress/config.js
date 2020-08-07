@@ -146,6 +146,7 @@ module.exports = {
                     ['/document/rss/page', "页面使用说明"],
                     ['/document/rss/schema', "文章说明"],
                     ['/document/rss/podcast', "播客说明"],
+                    ['/document/rss/readlater', "稍后阅读服务说明"],
                     ['/document/rss/authorize', "UWP中翻墙授权的特殊操作"],
                     ['/document/rss/history', "更新历史"],
                 ]
