@@ -138,7 +138,6 @@ module.exports = {
                 title: 'RSS Stalker 说明书',
                 collapsable: true,
                 children: [
-                    ['/document/rss/beta', "内测说明"],
                     ['/document/rss/use', "使用说明"],
                     ['/document/rss/service', "服务支持列表"],
                     ['/document/rss/fever', "Fever 说明"],
