@@ -98,7 +98,7 @@ OneDrive并不是一种RSS服务，而是云存储，与Microsoft账号绑定，
 :::
 
 :::danger
-Feedly是目前主流的RSS服务之一，应用也进行了适配，但由于适配完成后屡次向Feedly方面请求API令牌无果，应用暂时只提供开发者Token的访问
+Feedly是目前主流的RSS服务之一，应用也进行了适配，由于Feedly方面拒绝了我的初次令牌申请（仍然在沟通），应用暂时只提供开发者Token的访问
 :::
 
 支持操作：

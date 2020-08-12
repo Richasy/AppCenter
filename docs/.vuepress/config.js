@@ -10,13 +10,13 @@ module.exports = {
         //['link', { rel: 'manifest', href: '/manifest.json' }],
     ],
     plugins: ['@vuepress/back-to-top',[
-        
+        require('./rssConfig.js'),
         {
           base_url: '/', // required
           site_url: 'https://www.richasy.cn', // required
-          copyright: '2019 Richasy', // optional
+          copyright: '2020 Richasy', // optional
           // How much articles
-          count: 20
+          count: 30
         }
     ]],
     themeConfig: {
@@ -45,7 +45,7 @@ module.exports = {
                     ['/apps/wfa', "Warframe Alerting Prime"],
                     ['/apps/acrmd', "Acrylic Markdown"],
                     ['/apps/mdlite', "Markdown Lite"],
-                    ['/apps/rss', "RSS Stalker"],
+                    ['/apps/rss', "RSS Tracker"],
                     ['/apps/pictureshare', "Picture Share"],
                     ['/apps/clean_reader', "Clean Reader"],
                 ]
@@ -135,7 +135,7 @@ module.exports = {
                 ]
             }],
             '/document/rss': [{
-                title: 'RSS Stalker 说明书',
+                title: 'RSS Tracker 说明书',
                 collapsable: true,
                 children: [
                     ['/document/rss/use', "使用说明"],
