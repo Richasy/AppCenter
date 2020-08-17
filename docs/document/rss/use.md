@@ -7,7 +7,7 @@ type: post
 
 # 软件使用说明
 
-> [视频介绍地址](https://www.bilibili.com/video/av51859853)
+> [视频介绍地址](https://www.bilibili.com/video/BV1Lt4y1Q7Be)
 
 :::tip
 考虑到英文语境中，Stalker是一个很贬义的词，遂将应用英文名替换为`RSS Tracker`
