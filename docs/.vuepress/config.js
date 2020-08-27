@@ -148,6 +148,7 @@ module.exports = {
                     ['/document/rss/readlater', "稍后阅读服务说明"],
                     ['/document/rss/authorize', "UWP中翻墙授权的特殊操作"],
                     ['/document/rss/history', "更新历史"],
+                    ['/document/rss/qa', "常见问题及解答"],
                 ]
             }],
             '/document/cleanreader': [{
@@ -164,6 +165,14 @@ module.exports = {
                 children: [
                     ['/document/bilibili/qa', "常见问题"],
                     ['/document/bilibili/update', "更新历史"],
+                ]
+            }],
+            '/others': [{
+                title: '其他文档',
+                collapsable: true,
+                children: [
+                    ['/others/privacy', "软件隐私策略协议"],
+                    ['/others/onedrive_authkey', "获取OneDrive中指定文件夹的AuthKey"],
                 ]
             }],
         }
