@@ -147,7 +147,7 @@ WFA的服务器会定时请求国外的源数据，存在本地，国内用户�
 
 ### 查询参数
 
-- `region`：地区，可选值为`cetus`和`solaris`.
+- `region`：地区，可选值为`cetus`、`solaris`和`cambion`.
 - `language`：语言，可选值为`zh`和`en`.
 
 ### 返回结构
