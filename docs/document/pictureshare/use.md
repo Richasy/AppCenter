@@ -18,7 +18,7 @@ OneDrive作为独属于你的云服务，软件如果想访问相关资源，则
 
 点击`开始连接`，软件会启动OneDrive的授权程序。如果一切顺利的话，软件会在你的OneDrive中的`应用`文件夹内建立`Picture Share`文件夹。
 
-在此之后，软件会要求你输入授权码，关于这一步，详情参见[获取OneDrive中的Authkey](https://blog.richasy.cn/document/basic/onedrive_authkey.html)。
+在此之后，软件会要求你输入授权码，关于这一步，详情参见[获取OneDrive中的Authkey](https://www.richasy.cn/others/onedrive_authkey.html)。
 
 ## 建立分组
 
